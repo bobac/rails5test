@@ -1,0 +1,1 @@
+json.partial! "cfg_modules/cfg_module", cfg_module: @cfg_module

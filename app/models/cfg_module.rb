@@ -1,0 +1,2 @@
+class CfgModule < ApplicationRecord
+end

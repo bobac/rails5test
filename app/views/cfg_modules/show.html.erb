@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @cfg_module.name %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @cfg_module.description %>
+</p>
+
+<%= link_to 'Edit', edit_cfg_module_path(@cfg_module) %> |
+<%= link_to 'Back', cfg_modules_path %>

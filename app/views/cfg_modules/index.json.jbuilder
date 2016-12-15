@@ -1,0 +1,1 @@
+json.array! @cfg_modules, partial: 'cfg_modules/cfg_module', as: :cfg_module
